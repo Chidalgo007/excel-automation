@@ -52,3 +52,5 @@ Runs Excel updates via a Python process in the background no pop-ups, no manual 
 <hr>
 <h1>📷 Screenshots</h1>
 <img src="https://raw.githubusercontent.com/Chidalgo007/excel-automation/refs/heads/main/nestle-2.png" />
+<img src="https://raw.githubusercontent.com/Chidalgo007/excel-automation/refs/heads/main/n2.png" />
+
